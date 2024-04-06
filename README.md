@@ -1,3 +1,3 @@
-# Tugas3 Mobile Computing #
-Implicite Intent dan Eksplicite Intent 
+# UAS Mobile Computing #
+Arifander Tenouye
 ======================================
